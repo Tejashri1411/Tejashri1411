@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tejashri Dhomkar</h1>
 <h3 align="center">I’m interested in software development, full-stack web development, and building scalable applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejashri1411&label=Profile%20views&color=0e75b6&style=flat" alt="tejashri1411" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=tejashri1411&label=Profile%20views&color=0e75b6&style=flat](https://www.shutterstock.com/image-vector/happy-girl-laptop-online-coding-course-1982055719)" alt="tejashri1411" /> </p>
 
 - 🌱 I’m currently learning **advanced programming concepts as part of my MSc Computer Science at Nowrosjee Wadia College.**
 
