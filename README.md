@@ -82,9 +82,7 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/>
-  </a>
+  
 </p>
 
 
